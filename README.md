@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 Iʼm Karol. I help startups make money.
 
 Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
+
+***
+
+P.S. Check out my [article on guide to working remotely](https://medium.com/unsplash/an-introverts-guide-to-working-remotely-68ad78c84575).
