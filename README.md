@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Iʼm Karol. I help startups make money.
 
-Find me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
+Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
