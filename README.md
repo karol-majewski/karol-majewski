@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, stranger from the Internet 👋
 
 <!--
 **karol-majewski/karol-majewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Iʼm Karol. I help startups make money.
+
+Find me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
