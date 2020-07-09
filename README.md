@@ -21,4 +21,4 @@ Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https
 
 ***
 
-P.S. Check out my [article on guide to working remotely](https://medium.com/unsplash/an-introverts-guide-to-working-remotely-68ad78c84575).
+P.S. Check out my [guide to working remotely](https://medium.com/unsplash/an-introverts-guide-to-working-remotely-68ad78c84575).
