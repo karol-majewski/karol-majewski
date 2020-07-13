@@ -1,4 +1,4 @@
-### Hi, stranger from the Internet 👋
+### Hi 👋
 
 <!--
 **karol-majewski/karol-majewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,17 +17,11 @@ Here are some ideas to get you started:
 
 Iʼm Karol. I help startups make money.
 
-**My approach**
-
-- Use what you know. Save brainpower for business problems.
-- Static analysis is the cheapest way to iterate fast and deploy with confidence.
-- Small teams are better suited for rapid growth.
-
-**Getting into**
+#### Recent interests
 
 Natural Language Processing, AI, software architecture.
 
-**Elsewhere**
+#### Elsewhere
 
 Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
 
