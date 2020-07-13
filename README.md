@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 Iʼm Karol. I help startups make money.
 
+**Latest interests**
+
+Natural Language Processing, AI, software architecture.
+
+**Elsewhere**
+
 Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
 
 ***
