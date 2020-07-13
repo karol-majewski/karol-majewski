@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 Iʼm Karol. I help startups make money.
 
-**Currently getting into**
-
-Natural Language Processing, AI, software architecture.
-
-**Approach**
+**My approach**
 
 - Use what you know. Save brainpower for business problems.
 - Static analysis is the cheapest way to iterate fast and deploy with confidence.
 - Small teams are better suited for rapid growth.
+
+**Getting into**
+
+Natural Language Processing, AI, software architecture.
 
 **Elsewhere**
 
