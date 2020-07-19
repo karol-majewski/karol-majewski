@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Iʼm Karol. I help startups make money.
+Iʼm Karol. I help startups grow.
 
 #### Recent interests
 
