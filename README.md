@@ -23,7 +23,7 @@ Natural Language Processing, AI, software architecture.
 
 #### Elsewhere
 
-Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
+Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/users/10325032/karol-majewski?tab=profile), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/).
 
 ***
 
