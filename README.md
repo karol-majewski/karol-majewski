@@ -19,7 +19,7 @@ Iʼm Karol. I help startups grow.
 
 #### Recent interests
 
-Natural Language Processing, AI, software architecture.
+Natural Language Processing, Domain Driven Design, software architecture.
 
 #### Elsewhere
 
