@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Iʼm Karol. I help startups grow.
+My name is Karol. I help startups grow.
 
 #### Recent interests
 
-Artificial intelligence, domain modeling, organisation design.
+Artificial intelligence, local-first software, thoughtware, domain modeling, organisation design.
 
 #### Elsewhere
 
 Catch me on [Twitter](https://twitter.com/karoljmajewski), [StackOverflow](https://stackoverflow.com/users/10325032/karol-majewski?tab=profile), and [LinkedIn](https://www.linkedin.com/in/karol-majewski/). Or steal a TypeScript trick from [my GitHub gists](https://gist.github.com/karol-majewski).
-
-***
-
-P.S. Check out my [guide to working remotely](https://medium.com/unsplash/an-introverts-guide-to-working-remotely-68ad78c84575).
