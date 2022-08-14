@@ -19,7 +19,7 @@ My name is Karol. I help startups grow.
 
 #### Recent interests
 
-Product design, artificial intelligence, local-first software, thoughtware, domain modeling, organisation design.
+Product design, AI, local-first software, thoughtware, [deep electronic literature](http://hyperland.com/mlawLeast.html), and organisation design.
 
 #### Elsewhere
 
