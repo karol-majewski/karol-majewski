@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Karol. I help startups grow.
+My name is Karol. I help ideas realize in the digital space.
 
 #### Recent interests
 
