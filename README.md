@@ -19,7 +19,7 @@ My name is Karol. I help ideas realize in the digital space.
 
 #### Recent interests
 
-Product design, [thoughtware](https://paulbricman.com/thoughtware), artificial intelligence, [deep electronic literature](http://hyperland.com/mlawLeast.html), and organisation design.
+Product design, [thoughtware](https://paulbricman.com/thoughtware), artificial intelligence, [deep electronic literature]([http://hyperland.com/mlawLeast.html](http://hyperland.com/mlawLeast.html#:~:text=In%201960%20I,means%20the%20web.)), and organisation design.
 
 #### Elsewhere
 
