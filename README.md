@@ -19,7 +19,7 @@ My name is Karol. I help ideas realize in the digital space.
 
 #### Recent interests
 
-Product design, web3, [thoughtware](https://web.archive.org/web/20230324232525/https://paulbricman.com/thoughtware), incentive design, coordination mechanisms, cognition, and organisation design.
+Product design, web3, [thoughtware](https://web.archive.org/web/20230324232525/https://paulbricman.com/thoughtware), protocols, incentive design, coordination mechanisms, cognition, and organisation design.
 
 #### Elsewhere
 
