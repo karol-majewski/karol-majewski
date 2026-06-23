@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Karol. I help ideas realize in the digital space.
+My name is Karol. I run an applied research & strategy studio, helping early-stage ideas manifest. I used to be a professional software engineer. Nowadays, I’m synthesizing my technological skills with the study of novelty and the creative process.
 
-#### Recent interests
+#### Recent technology-adjacent interests
 
-Product design, thoughtware, incentive design, coordination mechanisms, cognition, and organisation design.
+Product design, freedom technology, networks, coordination mechanisms, cognition, novel UI paradigms, and organization design.
 
 #### Elsewhere
 
